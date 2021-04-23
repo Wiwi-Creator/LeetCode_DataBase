@@ -31,13 +31,13 @@
 
 ```
 
-#  Problems_DataBase
+# Problems_DataBase
 ***
+# 01.Get the second highest salary
 ```markdown
 
 
 # With MySQL
-# 01.Get the second highest salary
 # Difficulty : Easy
 
 Table:Employee
