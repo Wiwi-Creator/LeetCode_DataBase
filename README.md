@@ -37,7 +37,7 @@
 
 
 # With MySQL
-# 01.Get the second highest salary
+# 01.Get the second highest salary(Easy)
 Table:Employee
 +----+--------+
 | Id | Salary |
@@ -59,11 +59,11 @@ If there is no second highest salary, then the query should return null.
 
 -----------------------------------------------------------------------------------------------------
 SELECT IFNULL(
-(SELECT   DISTINCT 
-          Salary 
- FROM     Employee    
- ORDER BY Salary DESC limit 1 OFFSET 1)
- ,NULL)AS SecondHighestSalary
+( SELECT   DISTINCT 
+           Salary 
+  FROM     Employee    
+  ORDER BY Salary DESC limit 1 OFFSET 1)
+ ,NULL)AS  SecondHighestSalary
 ;
 
 ```
