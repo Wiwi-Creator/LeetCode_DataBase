@@ -38,6 +38,7 @@
 
 # With MySQL
 # 01.Get the second highest salary(Easy)
+
 Table:Employee
 +----+--------+
 | Id | Salary |
