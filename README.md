@@ -107,7 +107,11 @@ Can see My Solution on underline.↓
 
 ```
 My Solution :
-[02.CombineTwoTables]https://github.com/Wiwi-Creator/LeetCode_DataBase/blob/main/CombineTwoTables.sql
+[02.CombineTwoTables](https://github.com/Wiwi-Creator/LeetCode_DataBase/blob/main/CombineTwoTables.sql)
+
+
+
+
 Get more problems from it : https://leetcode.com/problemset/all/
 
 
