@@ -9,6 +9,7 @@
 而Leetcode便是以蒐集各項面試題目製成的題庫供求職者練習
 
 其類型分別有 : 
+
 ● Algorithm 
 
 ● Database
