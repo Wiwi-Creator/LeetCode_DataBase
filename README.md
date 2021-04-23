@@ -60,7 +60,7 @@ If there is no second highest salary, then the query should return null.
 
 -----------------------------------------------------------------------------------------------------
 
-
+My Solution : [01.GetTheSecondHighestSalary](https://github.com/Wiwi-Creator/LeetCode_DataBase/blob/main/GetTheSecondHighestSalary.sql)
 ```
 
 
