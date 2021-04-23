@@ -60,13 +60,6 @@ If there is no second highest salary, then the query should return null.
 
 -----------------------------------------------------------------------------------------------------
 
-SELECT IFNULL(
-( SELECT   DISTINCT 
-           Salary 
-  FROM     Employee    
-  ORDER BY Salary DESC limit 1 OFFSET 1)
- ,NULL) AS SecondHighestSalary
-;
 
 ```
 
