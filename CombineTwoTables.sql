@@ -1,8 +1,9 @@
 
 
---SELECT ¥XÃD¥ØÄæ¦ì «Ø¥ß»Paddress left join(¥ª¥~³¡³s±µ) 
+--SELECT å‡ºé¡Œç›®æ¬„ä½ å»ºç«‹èˆ‡address left join(å·¦å¤–éƒ¨é€£æ¥) 
 SELECT    a.FirstName, a.LastName, b.City, b.State
 FROM      Person a 
 LEFT JOIN Address b
 ON        a.PersonId = b.PersonId
 ;
+
