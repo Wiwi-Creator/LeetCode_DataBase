@@ -37,7 +37,8 @@
 
 
 # With MySQL
-# 01.Get the second highest salary(Easy)
+# 01.Get the second highest salary
+# Difficulty : Easy
 
 Table:Employee
 +----+--------+
