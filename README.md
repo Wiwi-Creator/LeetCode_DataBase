@@ -67,10 +67,10 @@ Can see My Solution on underline.↓
 My Solution :
 [01.GetTheSecondHighestSalary](https://github.com/Wiwi-Creator/LeetCode_DataBase/blob/main/GetTheSecondHighestSalary.sql)
 
-# 02.Get the address of person
+# 02.Combine Two Tables
 ```markdown
 
-
+# 175
 # With MySQL
 # Difficulty : Easy
 
