@@ -63,7 +63,7 @@ SELECT IFNULL(
            Salary 
   FROM     Employee    
   ORDER BY Salary DESC limit 1 OFFSET 1)
- ,NULL)AS  SecondHighestSalary
+ ,NULL) AS  SecondHighestSalary
 ;
 
 ```
