@@ -60,10 +60,11 @@ If there is no second highest salary, then the query should return null.
 
 -----------------------------------------------------------------------------------------------------
 
+Can see My Solution on underline.↓
 
 ```
 My Solution :
-[GetTheSecondHighestSalary](https://leetcode.com/problems/swap-salary/)
+[01.GetTheSecondHighestSalary](https://github.com/Wiwi-Creator/LeetCode_DataBase/blob/main/GetTheSecondHighestSalary.sql)
 
 
 Get more problems from it : https://leetcode.com/problemset/all/
