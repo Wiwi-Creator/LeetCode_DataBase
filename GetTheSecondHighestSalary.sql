@@ -1,6 +1,7 @@
 
---¦³¨ÇSQL¤£¤ä´©LIMIT (INDEX , COUNT ) «h¨Ï¥ÎOFFSET
---§ì¨ú±q²Ä INDEX ¦ì¸m¥H«áªº­Y¤z(COUNT)µ§
+
+--æœ‰äº›SQLä¸æ”¯æ´LIMIT (INDEX , COUNT ) å‰‡ä½¿ç”¨OFFSET
+--æŠ“å–å¾žç¬¬ INDEX ä½ç½®ä»¥å¾Œçš„è‹¥å¹²(COUNT)ç­†
 SELECT IFNULL(
 ( SELECT   DISTINCT 
            Salary 
@@ -8,3 +9,4 @@ SELECT IFNULL(
   ORDER BY Salary DESC LIMIT 1 OFFSET 1)
  ,NULL) AS SecondHighestSalary
 ;
+
