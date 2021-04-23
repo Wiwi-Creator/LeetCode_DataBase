@@ -33,10 +33,10 @@
 
 # Problems_DataBase
 ***
-# 01.Get the second highest salary
+# 01.Second highest salary
 ```markdown
 
-
+# 176
 # With MySQL
 # Difficulty : Easy
 
